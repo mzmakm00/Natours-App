@@ -21,7 +21,7 @@ Natours is a comprehensive tour management application built using cutting-edge 
 - Rating System
 
 ## Installation
-Clone the repository: git clone https://github.com/yourusername/yourproject.git
+Clone the repository: git clone https://github.com/mzmakm00/Natours-App
 - Navigate to the project folder: cd yourproject
 - Install dependencies: npm install
 - Start the application: npm run start
